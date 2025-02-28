@@ -1,1 +1,1 @@
-# CPE18-Software-Design
+# Splash Painting Showdown
