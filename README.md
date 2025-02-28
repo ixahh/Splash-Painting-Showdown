@@ -1,1 +1,1 @@
-# Splash Painting Showdown
+# Splash Painting Showdown (Android Game)
